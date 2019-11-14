@@ -1,0 +1,26 @@
+{
+  "name": "vuepress-site",
+  "version": "1.0.0",
+  "description": "very secrete semi public site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anettrolikova/vuepress-site.git"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "anett planet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anettrolikova/vuepress-site/issues"
+  },
+  "homepage": "https://github.com/anettrolikova/vuepress-site#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
