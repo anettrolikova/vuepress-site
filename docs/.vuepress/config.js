@@ -4,17 +4,21 @@ module.exports = {
   themeConfig: {
     displayAllHeaders: true,
     nav: [
-      { text: 'Community0', link: 'linkcommunit0'},
+      { text: 'About', link: 'linkcommunit0'},
       { text: 'next link', link: 'here' },
       { text: 'navbar', 
         items: [
           { text: 'Community', link: 'linkcommunity' },
           { text: 'Community2', link: 'linkcommunity2' },
+     { text: 'History', link: 'here' },
+     { text: 'New Member Guide', link: 'here' },
+     { text: 'Community', link: 'here' },
+     { text: 'Contact', link: 'here' },
         ]
       }
     ],
     sidebar: [
-      ['/', 'who are magicians'],
+      ['/', 'About'],
       ['/history/', 'History'],
       ['/faq', 'Faq'],
       ['/newMemberGuide', 'newmemberguide'],
