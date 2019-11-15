@@ -10,7 +10,8 @@ module.exports = {
         items: [
           { text: 'Community', link: 'linkcommunity' },
           { text: 'Community2', link: 'linkcommunity2' },
-     { text: 'History', link: 'here' },
+     { text: 'Our story', link: 'here' },
+     { text: 'Recent Gatherings', link: 'here' },
      { text: 'New Member Guide', link: 'here' },
      { text: 'Community', link: 'here' },
      { text: 'Contact', link: 'here' },
@@ -19,7 +20,7 @@ module.exports = {
     ],
     sidebar: [
       ['/', 'About'],
-      ['/history/', 'History'],
+      ['/Our story/', 'Our story'],
       ['/faq', 'Faq'],
       ['/newMemberGuide', 'newmemberguide'],
       ['/whoWeAre', 'Who We Are']

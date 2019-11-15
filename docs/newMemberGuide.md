@@ -1,6 +1,6 @@
 Explaining terms used in Ethereum Magicians Community
 
-This document is to guide you as you get started in the Ethereum Magicians forum.
+## This document is to guide you as you get started in the Ethereum Magicians forum.
 
 Fellowship of Ethereum Magicians (FEM) was founded to solve the problem of offline and online coordination in Ethereum. We started an open forum with a focus on improving Ethereum without unwanted noise (that social media like Twitter and Reddit provides). FEM is a Fellowship of individuals with a common goal - Improve Ethereum. If you’re interested in the history of FEM, read this article from Pet3rpan.
 
@@ -23,4 +23,4 @@ Ethereum Magicians believe not only in building online community but in an offli
 This ring is responsible for organising events - in-person meetings, moderating discussions and more. We are there to help out. You can imagine Operations Ring as a help desk. Currently, people who are in charge of the Operations Ring are @jpitts and @anettrolikova.
 
 # Our Ethos
-The Magicians are guided by a proposed Mission, Principles, and Practises . Please read through that document!
+The Magicians are guided by a proposed Mission, Principles, and Practises that you can find in this document. 
