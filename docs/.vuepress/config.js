@@ -1,12 +1,11 @@
-module.exports = {
-  title: ':sparkles: Ethereum Magicians',
+module.exports = { title: '✨ Ethereum Magicians',
   description: 'description',
   themeConfig: {
     displayAllHeaders: true,
     nav: [
-      { text: 'About us', link: 'README'},
-      { text: 'Our Story', link: 'Activities' },
-      { text: 'Gatherings', link: 'index' },
+      { text: 'About Ethereum Magicians', link: 'index'},
+      { text: 'Our Story', link: 'Our-Story' },
+      { text: 'Gatherings', link: 'Gatherings' },
       { text: 'Community', link: 'https://ethereum-magicians.org/' },
       // { text: 'Quick Links', 
         // items: [
