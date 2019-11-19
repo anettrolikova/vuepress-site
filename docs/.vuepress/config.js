@@ -5,6 +5,7 @@ module.exports = { title: '✨ Ethereum Magicians',
     nav: [
       { text: 'About Ethereum Magicians', link: 'index'},
       { text: 'Our Story', link: 'Our-Story' },
+      { text: 'New Member Guide', link: 'newMemberGuide' },
       { text: 'Gatherings', link: 'Gatherings' },
       { text: 'Community', link: 'https://ethereum-magicians.org/' },
       // { text: 'Quick Links', 
